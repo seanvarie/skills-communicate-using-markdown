@@ -10,3 +10,7 @@ int main(){
   //Oh no! I leaked some memory!
 }
 ```
+
+- [ ] complete step 1
+- [ ] complete step 2
+- [ ] complete step 3
